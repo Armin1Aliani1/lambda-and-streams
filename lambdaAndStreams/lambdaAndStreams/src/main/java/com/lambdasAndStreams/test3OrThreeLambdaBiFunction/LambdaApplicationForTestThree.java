@@ -1,4 +1,4 @@
-package com.lambdasAndStreams.test3OrThreeLambdaFunction;
+package com.lambdasAndStreams.test3OrThreeLambdaBiFunction;
 
 import java.util.Scanner;
 import java.util.function.BiFunction;
